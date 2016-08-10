@@ -304,8 +304,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "B",
+                    "label": "B"
                 }
             }
         },
@@ -902,8 +902,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CONS:MUTE",
-                    "label": "MUTE"
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },
