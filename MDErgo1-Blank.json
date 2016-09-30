@@ -424,6 +424,10 @@
                 "0": {
                     "key": "LAT1",
                     "label": "LATCH-1"
+                },
+                "1": {
+                    "key": "LAT1",
+                    "label": "LATCH-1"
                 }
             }
         },
@@ -949,8 +953,12 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "LCK1",
+                    "label": "LOCK-1"
+                },
+                "1": {
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },

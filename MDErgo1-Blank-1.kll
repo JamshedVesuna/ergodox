@@ -13,6 +13,7 @@ U"3" : U"FUN3";
 U"2" : U"FUN2";
 U"1" : U"FUN1";
 U"FUNCTION1" : None;
+U"HOME" : U"LAT1";
 U"FUNCTION6" : ledControl( 4, 15, 0 );
 U"6" : U"FUN6";
 U"7" : U"FUN7";
@@ -22,4 +23,5 @@ U"H" : U"LEFT";
 U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
+U"PAGEUP" : U"LCK1";
 
