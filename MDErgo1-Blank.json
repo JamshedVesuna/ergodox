@@ -19,6 +19,10 @@
                 "0": {
                     "key": "CONS:VOLUMEDOWN",
                     "label": "VOL-"
+                },
+                "1": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
                 }
             }
         },
@@ -32,6 +36,10 @@
                 "0": {
                     "key": "5",
                     "label": "5"
+                },
+                "1": {
+                    "key": "FUN5",
+                    "label": "\u01925"
                 }
             }
         },
@@ -45,6 +53,10 @@
                 "0": {
                     "key": "4",
                     "label": "4"
+                },
+                "1": {
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
@@ -58,6 +70,10 @@
                 "0": {
                     "key": "3",
                     "label": "3"
+                },
+                "1": {
+                    "key": "FUN3",
+                    "label": "\u01923"
                 }
             }
         },
@@ -71,6 +87,10 @@
                 "0": {
                     "key": "2",
                     "label": "2"
+                },
+                "1": {
+                    "key": "FUN2",
+                    "label": "\u01922"
                 }
             }
         },
@@ -84,6 +104,10 @@
                 "0": {
                     "key": "1",
                     "label": "1"
+                },
+                "1": {
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -110,6 +134,10 @@
                 "0": {
                     "key": "CONS:PAUSEPLAY",
                     "label": "PL\/PS"
+                },
+                "1": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },
@@ -510,6 +538,10 @@
                 "0": {
                     "key": "CONS:VOLUMEUP",
                     "label": "VOL+"
+                },
+                "1": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             }
         },
@@ -523,6 +555,10 @@
                 "0": {
                     "key": "6",
                     "label": "6"
+                },
+                "1": {
+                    "key": "FUN6",
+                    "label": "\u01926"
                 }
             }
         },
@@ -536,6 +572,10 @@
                 "0": {
                     "key": "7",
                     "label": "7"
+                },
+                "1": {
+                    "key": "FUN7",
+                    "label": "\u01927"
                 }
             }
         },
@@ -588,6 +628,10 @@
                 "0": {
                     "key": "MINUS",
                     "label": "-"
+                },
+                "1": {
+                    "key": "#:flashMode()",
+                    "label": "FLASH"
                 }
             }
         },
@@ -601,6 +645,10 @@
                 "0": {
                     "key": "CONS:MUTE",
                     "label": "MUTE"
+                },
+                "1": {
+                    "key": "#:ledControl( 5, 0, 0 )",
+                    "label": "LED OFF"
                 }
             }
         },
