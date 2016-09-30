@@ -108,8 +108,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
@@ -303,8 +303,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "B",
-                    "label": "B"
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -724,8 +724,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "M",
-                    "label": "M"
+                    "key": "K",
+                    "label": "K"
                 },
                 "1": {
                     "key": "UP",
@@ -810,8 +810,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
