@@ -14,7 +14,7 @@ Installation
 
 Layout
 ======
-.. image:: images/layout.png
+.. image:: images/layout2.png
 
 .. _Massdrop: https://keyboard-configurator.massdrop.com/ext/ergodox
 .. _Input Club: https://input.club/configurator
