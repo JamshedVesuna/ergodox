@@ -35,7 +35,7 @@ U"C" : U"C";
 U"X" : U"X";
 U"Z" : U"Z";
 U"LSHIFT" : U"LSHIFT";
-U"HOME" : None;
+U"HOME" : U"LAT1";
 U"END" : U"LCK1";
 U"DELETE" : U"LGUI";
 U"BACKSPACE" : U"SPACE";
